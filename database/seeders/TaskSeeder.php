@@ -10,6 +10,7 @@ class TaskSeeder extends Seeder
 {
     public function run(): void
     {
+        \App\Models\Task::truncate();
         $today = Carbon::today();
 
         $tasks = [
