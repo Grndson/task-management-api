@@ -14,8 +14,8 @@
 <div class="wrap">
 
   <div class="page-header">
-    <h1>Tasks</h1>
-    <p>task management api</p>
+    <h1>Taskini</h1>
+    <p>Task Management Platform</p>
   </div>
 
   <div class="stats-row">
